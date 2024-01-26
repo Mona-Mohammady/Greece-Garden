@@ -63,6 +63,7 @@ export class InfoComponent {
       this.filteredImages = this.images;
     } else {
       this.filteredImages = this.images.filter(image => image.category === category);
+
     }
   }
 
