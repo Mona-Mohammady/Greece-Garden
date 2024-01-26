@@ -25,3 +25,8 @@
 
 img{margin-top: 65px;}
 
+img {
+    width: 100%;
+    height: 250px;
+  }
+
